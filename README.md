@@ -3,7 +3,7 @@
 ### What is this repository for? ###
 * FUN
 
-###Assumptions in problem statement
+### Assumptions in problem statement
 * score calculations
 
 1. if document is "Ford, Car, Review, Ford" and query is "Ford Car Ford" relevance score becomes
@@ -12,7 +12,7 @@
 2. there is a typo in results of Q5: p5 should be there.
 
 
-### Steps to setup###
+### Steps to setup
 
 1. setup_script.sh sets up virtual env and runs main.py
 program reads from input.txt
